@@ -1,5 +1,11 @@
 [
   {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
     "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
     "name": "BabySwap Token",
     "symbol": "BABY",
